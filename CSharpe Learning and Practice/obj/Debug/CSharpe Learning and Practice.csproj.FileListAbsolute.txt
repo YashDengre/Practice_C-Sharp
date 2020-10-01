@@ -1,0 +1,12 @@
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\bin\Debug\CSharpe Learning and Practice.exe.config
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\bin\Debug\CSharpe Learning and Practice.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\bin\Debug\CSharpe Learning and Practice.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\bin\Debug\ADO_DOTNET_LINQ.dll
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\bin\Debug\ADO_DOTNET_LINQ.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.csproj.CopyComplete
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe_Learning_and_Practice.Experiment.resources
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\CSharpe Learning and Practice\obj\Debug\CSharpe Learning and Practice.csproj.GenerateResource.cache
