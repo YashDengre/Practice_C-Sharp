@@ -1,0 +1,6 @@
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\bin\Debug\ADO_DOTNET_LINQ.dll
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\bin\Debug\ADO_DOTNET_LINQ.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\obj\Debug\ADO_DOTNET_LINQ.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\obj\Debug\ADO_DOTNET_LINQ.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\obj\Debug\ADO_DOTNET_LINQ.dll
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\ADO_DOTNET_LINQ\obj\Debug\ADO_DOTNET_LINQ.pdb
