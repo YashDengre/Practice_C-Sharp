@@ -1,0 +1,7 @@
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\bin\Debug\Tech9 Assement code.exe.config
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\bin\Debug\Tech9 Assement code.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\bin\Debug\Tech9 Assement code.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\obj\Debug\Tech9 Assement code.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\obj\Debug\Tech9 Assement code.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\obj\Debug\Tech9 Assement code.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Tech9 Assement code\obj\Debug\Tech9 Assement code.pdb
