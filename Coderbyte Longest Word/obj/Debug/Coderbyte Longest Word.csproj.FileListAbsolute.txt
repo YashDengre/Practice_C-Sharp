@@ -1,0 +1,7 @@
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\bin\Debug\Coderbyte Longest Word.exe.config
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\bin\Debug\Coderbyte Longest Word.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\bin\Debug\Coderbyte Longest Word.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\obj\Debug\Coderbyte Longest Word.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\obj\Debug\Coderbyte Longest Word.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\obj\Debug\Coderbyte Longest Word.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Longest Word\obj\Debug\Coderbyte Longest Word.pdb
