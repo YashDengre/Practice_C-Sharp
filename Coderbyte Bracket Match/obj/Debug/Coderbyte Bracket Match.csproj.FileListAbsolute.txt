@@ -1,0 +1,7 @@
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\bin\Debug\Coderbyte Bracket Match.exe.config
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\bin\Debug\Coderbyte Bracket Match.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\bin\Debug\Coderbyte Bracket Match.pdb
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\obj\Debug\Coderbyte Bracket Match.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\obj\Debug\Coderbyte Bracket Match.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\obj\Debug\Coderbyte Bracket Match.exe
+E:\Let's Make It Possible - Let's Do This\DotNet\C#\Coderbyte Bracket Match\obj\Debug\Coderbyte Bracket Match.pdb
